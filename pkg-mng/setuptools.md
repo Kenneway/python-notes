@@ -1,0 +1,1 @@
+setuptools 是对 distutils 的增强，尤其是引入了包依赖管理。我们可以通过ez_setup.py来安装setuptools。
